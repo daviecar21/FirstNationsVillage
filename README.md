@@ -8,4 +8,9 @@ I already know some things that I can fix and I will work on fixing them:
 1. You can get negative food and still continue playing.
 2. There is no ends to the game and the game is pointless.
 
+# INSTALLATION INSTRUCTIONS
+1. Download and extract the .zip file.
+2. Run FirstNationsVillage.exe inside the folder
+Note: Progress doesn't save... so yeah... 
+
 Thanks and farewell!
