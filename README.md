@@ -1,5 +1,6 @@
 # FirstNationsVillage v1.0
-Don't download this piece of **** unless you wand metaphysical cancer.
+
+Don't download this piece of **** unless you want metaphysical cancer.
 
 This is version 1.0; it has bugs... comment if you have any suggestions, improvements that I should make and things like that. They are greatly appreciated. 
 
