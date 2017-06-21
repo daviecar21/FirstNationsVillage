@@ -1,4 +1,4 @@
- # FirstNationsVillage v0.4-alpha
+ # FirstNationsVillage v0.5.2-alpha
 
 Don't download this piece of **** unless you want metaphysical cancer.
 
