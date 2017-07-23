@@ -1,4 +1,4 @@
- # FirstNationsVillage v0.5.3-alpha
+ # FirstNationsVillage v0.5.3-alpha (Discontinued)
 
 Don't download this piece of **** unless you want metaphysical cancer.
 
